@@ -2,17 +2,6 @@
 
 A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. Play against a friend and see who can get three in a row first!
 
-## Table of Contents
-- [About](#about)
-- [Demo](#demo)
-- [Features](#features)
-- [Used For](#used-for)
-- [Technologies Used](#technologies-used)
-- [Improvements](#improvements)
-- [Problems Faced](#problems-faced)
-- [Live Demo](#live-demo)
-- [Repository](#repository)
-
 ## About
 This is a simple web-based Tic Tac Toe game where two players take turns to mark X and O on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
